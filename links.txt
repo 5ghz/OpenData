@@ -12,3 +12,6 @@ http://www.gks.ru/opendata/dataset/7708234640-bdboo2013
 http://www.gks.ru/opendata/dataset/7708234640-bdboo2012
 Reestr
 http://data.gov.ru/opendata/7707329152-rsmp
+OKTMO
+http://data.gov.ru/opendata/7710168515-oktmo
+http://data.gov.ru/opendata/7708234640-oktmo
