@@ -1,0 +1,14 @@
+OkVD
+http://data.gov.ru/opendata/7710168515-okved2001
+http://data.gov.ru/opendata/7710168515-okved2007
+http://data.gov.ru/opendata/7710168515-okved2014
+Buh Codes
+https://огрн.онлайн/%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/7953108-/%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B/
+Data
+http://www.gks.ru/opendata/dataset/7708234640-bdboo2016
+http://www.gks.ru/opendata/dataset/7708234640-bdboo2015
+http://www.gks.ru/opendata/dataset/7708234640-bdboo2014
+http://www.gks.ru/opendata/dataset/7708234640-bdboo2013
+http://www.gks.ru/opendata/dataset/7708234640-bdboo2012
+Reestr
+http://data.gov.ru/opendata/7707329152-rsmp
